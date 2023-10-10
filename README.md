@@ -33,7 +33,8 @@ Example:
 
 pip install torch torchvision
 
-You can also download the MNIST dataset from here: https://www.kaggle.com/datasets/hojjatk/mnist-dataset
+The code is set up to automatically download the MNIST dataset from the internet if it does not exist locally.
+You can also download the MNIST dataset from here: https://www.kaggle.com/datasets/hojjatk/mnist-dataset 
 
 Run the Code: Execute the provided Python script to start the image classification process. You can adjust configuration parameters like the number of epochs, batch size, optimizers, and learning rate in the code.
 
