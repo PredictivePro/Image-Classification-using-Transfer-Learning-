@@ -43,3 +43,9 @@ Observe Results: Check the training progress and final accuracy on the test data
 
 #### Conclusion
 This project demonstrates the power of transfer learning in image classification tasks, using the ResNet-50 model as a strong starting point. By fine-tuning the model on a different dataset (MNIST), we achieve impressive accuracy. You can use this code as a foundation for more complex image classification tasks or as a learning resource to understand transfer learning in deep learning.
+
+
+
+Dataset Source: MNIST Database (Yann LeCun, Corinna Cortes, and Christopher J.C. Burges)
+
+Project Inspiration: Kaggle (https://www.kaggle.com/)
