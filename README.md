@@ -50,3 +50,5 @@ This project demonstrates the power of transfer learning in image classification
 Dataset Source: MNIST Database (Yann LeCun, Corinna Cortes, and Christopher J.C. Burges)
 
 Project Inspiration: Kaggle (https://www.kaggle.com/)
+
+Author: Alfred Sabu
